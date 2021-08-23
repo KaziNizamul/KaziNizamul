@@ -14,7 +14,7 @@
   
 
 <a href="https://github.com/KaziNizamul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,Jupyter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,Jupyter Notebook" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="KaziNizamul's github stats" />
