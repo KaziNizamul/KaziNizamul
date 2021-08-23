@@ -1,31 +1,28 @@
-<h2> Hey there! I'm Kazi.</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kazi Nizamul</h1>
+<h3 align="center">Front-end developer who aims to write quality code</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadanandpai" alt="sadanandpai" /> </p> -->
 
-<h3> 👨🏻‍💻 About Me </h3>
+- 👨‍💻 All of my projects are available at [github](https://github.com/KaziNizamul?tab=repositories)
 
-- 🤔 &nbsp; Exploring new technologies and developing softwares is my passion.
-- 🎓 &nbsp; 2020 B.Tech-IT graduated from SRM University, India.
-<!-- - 💼 &nbsp; Working as a Data Engineer at Infosys, India. -->
-<!-- - 🌱 &nbsp; Learning more about Cloud Architecture, BigData System and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Hacking and Blog Writing as hobbies/side hustles. -->
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
-<h3>🛠 Tech Stack</h3>
+- 📫 How to reach me **kazinizamul.work@hotmail.com**
 
-- 💻 &nbsp; Python | Django | Flask | PysSpark | Databricks
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
-- 🛢 &nbsp; MySQL | MongoDB | Hive | BigQuery
-- 🔧 &nbsp; Git | Ubuntu | Visual Studio Code | AWS | GCP | Azure | Docker
+- ⚡ Fun fact **sometimes humorous**
 
-<br/>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angularjs" width="20" height="20"/> <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="20"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
+  
 
-[![KaziNizamul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true)](https://github.com/KaziNizamul)
+<a href="https://github.com/KaziNizamul/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="KaziNizamul's github stats" />
+</a>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<!-- <p align="center">
-<a href="https://mayankmaheshwar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-mayankmaheshwar.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mayankmaheshwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mayank%20maheshwar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mayankmaheshwaricodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mayankmaheshwaricodes-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mayank.maheshwari625@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mayank.maheshwari625@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p> -->
-
-⭐️ From [Kazi Nizamul](https://github.com/KaziNizamul)
+<p align="center">
+<a href="https://twitter.com/paicube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sadanandpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
+<a href="https://fb.com/yespai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yespai" height="20" width="20" /></a>
+<a href="https://instagram.com/pai_cube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
+</p>
