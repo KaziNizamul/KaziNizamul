@@ -20,10 +20,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="KaziNizamul's github stats" />
 </a>
 
-<!-- <p align="center">
-<a href="https://twitter.com/paicube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a> -->
+ <p align="center">
+   
+<!-- <a href="https://twitter.com/paicube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a> -->
+   
 <a href="https://linkedin.com/in/kazinizamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a>
+   
 <!-- <a href="https://fb.com/yespai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yespai" height="20" width="20" /></a> -->
-<!-- <a href="https://instagram.com/pai_cube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
+<!-- <a href="https://instagram.com/pai_cube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a> -->
+   
+   
 </p>
- -->
+ 
