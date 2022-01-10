@@ -12,8 +12,7 @@
 
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="30" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angularjs" width="20" height="20"/> <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="20"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
   
-<p align="center"><a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=true" alt="Kazi's codersrank stat" /></a></p>
-<br />
+
 
 <a href="https://github.com/KaziNizamul/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,Jupyter Notebook" />
@@ -22,6 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="Kazi's github stats" />
 </a>
 
+ <p align="center"><a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=false" alt="Kazi's codersrank stat" /></a></p>
+<br />
 
 <p align="center">
 Linked <a href="https://linkedin.com/in/kazinizamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="KaziNizamul" height="20" width="20" /></a>
