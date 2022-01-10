@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="Kazi's github stats" />
 </a>
 
- <p align="center"><a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=false" alt="Kazi's codersrank stat" /></a></p>
+ <p align="center"><a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank"><img align="right" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=true" alt="Kazi's codersrank stat" /></a></p>
 <br />
 
 <p align="center">
