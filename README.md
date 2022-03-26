@@ -29,6 +29,6 @@
 <br />
 
 <p align="center">
-Linked <a href="https://linkedin.com/in/kazinizamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="KaziNizamul" height="20" width="20" /></a>
+Linked  <a href="https://www.linkedin.com/in/kazinizamul/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 </p>
  
