@@ -19,7 +19,7 @@
 <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical" />
 </a>
 <!-- &theme=radical&hide=glsl,python,Jupyter Notebook -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
