@@ -18,9 +18,10 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <p align="center">
 
-<a href="https://github.com/KaziNizamul/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,Jupyter Notebook" />
 </a>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=radical&line_height=27" alt="Kazi's github stats" />
 </a>
