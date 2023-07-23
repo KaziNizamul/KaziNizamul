@@ -17,9 +17,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <p align="center">
-
- <a href="https://github.com/KaziNizamul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=Jupyter Notebook" />
+  
+<a href="https://github.com/KaziNizamul/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,Jupyter Notebook" />
 </a>
   
 <a href="https://github.com/KaziNizamul/github-readme-stats">
