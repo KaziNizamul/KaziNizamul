@@ -19,7 +19,7 @@
 <p align="center">
   
 <a href="https://github.com/KaziNizamul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,`Jupyter Notebook`" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=radical&hide=glsl,python,\'Jupyter Notebook'\" />
 </a>
   
 <a href="https://github.com/KaziNizamul/github-readme-stats">
