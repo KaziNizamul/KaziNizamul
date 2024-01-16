@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **kazinizamul.work@hotmail.com**
+- 📫 How to reach me **kazinezamul3@gmail.com**
 
 - ⚡ Fun fact **sometimes humorous**
 
