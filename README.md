@@ -11,42 +11,48 @@
 - ⚡ Fun fact **sometimes humorous**
 
 <hr> 
+<br>
 
 <!---------------------------------------------------------------------- TECHNOLOGY STACKS ------------------------------------------------------------------>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,javascript,typescript,html,css,scss,tailwind,jest,gitlab" /> <br>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> <br>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <th>Stack</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,javascript,typescript,html,css,scss,tailwind,jest,gitlab" /></td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" /></td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></td>
+  </tr>
+</table>
 
 
+<br>
+<br>
 
 
 <!---------------------------------------------------------------------- GITHUB STATS ------------------------------------------------------------------>
-<!--
-<a href="https://github.com/KaziNizamul/github-readme-stats&theme=blueberry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&theme=blueberry&hide=glsl,python,Jupyter%20Notebook" />
-</a>
-  
-<a href="https://github.com/KaziNizamul/github-readme-stats&theme=blueberry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=blueberry&line_height=27" alt="Kazi's github stats" />
-</a>
 
--->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaziNizamul&show_icons=true&theme=blueberry&line_height=20" alt="Kazi's github stats" />
   &nbsp;
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&layout=compact&theme=blueberry&hide=glsl,python,Jupyter%20Notebook" />
 </p>
-  
-  <!-- 
-    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=KaziNizamul&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziNizamul&layout=compact&theme=blueberry&count_private=true&hide=glsl,Jupyter%20Notebook)</a>
-  -->
+
+
+<br>
+<br>
+
+
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank">
