@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kazi Nizamul</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nizamul Kazi</h1>
 <h3 align="center">Front-end developer who aims to write quality code</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="KaziNizamul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="Nizamul Kazi" /> </p>
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/KaziNizamul?tab=repositories)
 
@@ -72,9 +72,9 @@
   </a>
   &nbsp;
   &nbsp;
-  <a href="mailto:kazinezamul3@gmail.com">
+  <a href="mailto:kazinezamul3@gmail.com?subject=Regarding:%20Job%20Opportunity&body=Hi%20Nizamul,%0A%0AI%20found%20you%20on%20your%20cool%20Github%20profile.%0ALet%20me%20know%20if%20you%20are%20available%20for%20an%20initial%20round%20of%20discussion%20with%20us%20:)">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+</a>
   &nbsp;
   &nbsp;
   <a href="https://twitter.com/nizamul_kazi">
