@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/kazinizamul/" target="_blank">
-    <img align="center" width="85%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=true" alt="Kazi's codersrank stat" />
+    <img align="center" width="100%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kazinizamul&show-avatar=true" alt="Kazi's codersrank stat" />
   </a
 >
 </p>
