@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nizamul Kazi</h1>
-<h3 align="center">Full Stack developer who aims to write quality & scalable code</h3>
+<h3 align="center"> A passionate Full Stack Developer with a keen eye for crafting clean, efficient, and scalable code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="Nizamul Kazi" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/KaziNizamul?tab=repositories)
+- 💻 Explore my repositories to discover a diverse range of projects showcasing my skills in web development, cloud computing, and cutting-edge technologies.
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🚀 Proficient in: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, AWS, Docker, and more.
+  
+- 📫 Let's connect! Reach out to me at kazinezamul3@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/kazinizamul/)
 
-- 📫 How to reach me **kazinezamul3@gmail.com**
-
-- ⚡ Fun fact **sometimes humorous**
+- 😋 Fun fact: **sometimes humorous ...**
 
 <hr> 
 <br>
