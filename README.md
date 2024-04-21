@@ -24,15 +24,39 @@
   </tr>
   <tr>
     <td>Frontend</td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,javascript,typescript,html,css,scss,tailwind,jest,gitlab" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" />
+      <img src="https://skillicons.dev/icons?i=angular"  title="Angular"/>
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+      <img src="https://skillicons.dev/icons?i=javascript" title="Javascript" />
+      <img src="https://skillicons.dev/icons?i=typescript" title="Typescript" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+      <img src="https://skillicons.dev/icons?i=scss" title="Scss" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
+      <img src="https://skillicons.dev/icons?i=gitlab" title="Gitlab" />
+    </td>
   </tr>
   <tr>
     <td>DevOps</td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS"  />
+      <img src="https://skillicons.dev/icons?i=gcp" title="GCP"  />
+      <img src="https://skillicons.dev/icons?i=docker" title="Docker"  />
+      <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"  />
+      <img src="https://skillicons.dev/icons?i=terraform" title="Terraform"  />
+    </td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"  />
+      <img src="https://skillicons.dev/icons?i=express" title="Express"  />
+      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"  />
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"  />
+    </td>
   </tr>
 </table>
 
