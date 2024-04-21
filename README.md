@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nizamul Kazi</h1>
-<h3 align="center">Front-end developer who aims to write quality code</h3>
+<h3 align="center">Full Stack developer who aims to write quality code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="Nizamul Kazi" /> </p>
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/KaziNizamul?tab=repositories)
