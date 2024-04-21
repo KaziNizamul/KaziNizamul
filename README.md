@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nizamul Kazi</h1>
 <h3 align="center"> A passionate Full Stack Developer with a keen eye for crafting clean, efficient, and scalable code.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="Nizamul Kazi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KaziNizamul" alt="Nizamul Kazi" /> </p>
+
+<br>
 
 - 💻 Explore my repositories to discover a diverse range of projects showcasing my skills in web development, cloud computing, and cutting-edge technologies.
 
