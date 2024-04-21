@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td>DevOps</td>
+    <td>DevOps & Cloud</td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws" title="AWS"  />
       <img src="https://skillicons.dev/icons?i=gcp" title="GCP"  />
