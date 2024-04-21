@@ -72,13 +72,13 @@
   </a>
   &nbsp;
   &nbsp;
-   <a href="https://twitter.com/nizamul_kazi">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" />
+  <a href="mailto:kazinezamul3@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
   &nbsp;
-  <a href="mailto:kazinezamul3@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://twitter.com/nizamul_kazi">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
