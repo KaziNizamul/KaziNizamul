@@ -6,7 +6,7 @@
 
 - 💻 Explore my repositories to discover a diverse range of projects showcasing my skills in web development, cloud computing, and cutting-edge technologies.
 
-- 🚀 Proficient in: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, AWS, Docker, and more.
+- 🚀 Proficient in: JavaScript, React, Node.js, Express, MongoDB, AWS, Docker, and more.
   
 - 📫 Let's connect! Reach out to me at kazinezamul3@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/kazinizamul/)
 
