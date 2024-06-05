@@ -30,6 +30,7 @@
       <img src="https://skillicons.dev/icons?i=angular"  title="Angular"/>
       <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
       <img src="https://skillicons.dev/icons?i=javascript" title="Javascript" />
+      <img src="https://skillicons.dev/icons?i=cs" title="CSharp" />
       <img src="https://skillicons.dev/icons?i=typescript" title="Typescript" />
       <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
       <img src="https://skillicons.dev/icons?i=css" title="CSS" />
@@ -53,6 +54,7 @@
     <td>Backend</td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"  />
+      <img src="https://skillicons.dev/icons?i=dotnet"  title=".NET"/>
       <img src="https://skillicons.dev/icons?i=express" title="Express"  />
       <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"  />
       <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"  />
